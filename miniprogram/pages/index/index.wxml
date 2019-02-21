@@ -1,0 +1,9 @@
+<view class="page">
+
+  <navigator url="../pt-index/index">
+    拼团首页
+  </navigator>
+
+
+  
+</view>
